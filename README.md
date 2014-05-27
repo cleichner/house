@@ -6,9 +6,10 @@ Quick Links:
 
 - [House Manual](house-manual.md)
 - [Guest Manual](guest-manual.md)
-- [Discussions + Issues](https://github.com/masonic/house/issues)
-- [Contact Information](contact.md)
 - [Meeting Notes](meeting-notes/)
+- [Contact Information](contact.md)
+- [Discussions + Issues](https://github.com/masonic/house/issues)
+- [House Pictures + Floor Plans](http://buildcampus.com/masonic/)
 
 
 If there is a problem, or want to discuss something,
