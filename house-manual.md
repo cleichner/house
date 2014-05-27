@@ -1,4 +1,4 @@
-# Masonic - House Manual
+# House Manual
 
 ## Kitchen
 
