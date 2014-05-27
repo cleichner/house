@@ -12,19 +12,21 @@ Follow the kitchen guidelines.
 - Kat (lower)
 - Walrus (upper)
 
-###Cleanliness
-- Keepon is watching you and wants you to feel bad if you leave a mess.
-- if the dishwasher is running, hand wash your dish
-- if the dishwasher is clean, empty it and put your dish in there or handwash your dish
-- dishwasher detergent is underneath the sink
-- if you leave a mess, it will be photographed and sent out and you will be shamed
+**General**
 
-###Food storage
-- label your food with masking tape and the sharpies by the sink (TODO: kh)
-- food that is not labelled is assumed to be communal
+- Whenever you use the kitchen, leave it as clean as you found it (or better!).
+
+**Dishwasher**
+- If the dishwasher is running, hand wash your dish.
+- if the dishwasher is clean, (a) empty it and put your dish in there or (b) handwash your dish.
+- Dishwasher detergent can be found underneath the sink.
+
+**Food**
+- Label your food using the tape and sharpies by the sink.
+- Unlabeled food is considered communal.
+- Expired! mouldy! Food meeting either of these conditions will be discarded.
+- Uncovered food will be discarded within 48 hours. (Cover or put in container)
 - containers should be labelled with dates of origin. Anything kept around for greater than a week will be tossed.
-- any open food that is left in the fridge will be thrown away within 48 hours - cover your food or put it in a container
-- anything molding will be tossed out. No questions asked
 - (TODO: kh) Fridge space is labelled. Please concentrate your things in the appropriate space
 - (TODO: kh) Cabinet space is labelled. Please concentrate your things in the appropriate space
 
