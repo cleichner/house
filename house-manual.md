@@ -29,8 +29,7 @@ Follow the kitchen guidelines.
 - (TODO: kh) Fridge space is labelled. Please concentrate your things in the appropriate space
 - (TODO: kh) Cabinet space is labelled. Please concentrate your things in the appropriate space
 
-**
-###Trash
+**Trash**
 - if the trash is overflowing, take it out. Seriously. 
 - compost is compost in the metal bins, recycling is recycling in the blue bin, trash is trash in the black bin. Ask Kat or Hannah if you need a lesson on what constitutes trash, recycling, or compost. 
 - trash should be taken out to the bins in the garage or behind the black gate (TODO: Cy) the key to the gate will be at a specific location for when you are going out to the gate
