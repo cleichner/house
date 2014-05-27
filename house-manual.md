@@ -5,11 +5,13 @@
 **Captains**
 
 Kitchen captains are volunteers who take responsibility for cleaning up messes left behind by others.
-Please be considerate. 
-Follow the kitchen guidelines.
+Presently, the captains are:
 
 - Kat (lower)
 - Walrus (upper)
+
+Please be considerate. 
+Follow the kitchen guidelines.
 
 **General**
 
