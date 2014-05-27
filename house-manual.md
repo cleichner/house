@@ -1,13 +1,23 @@
 # Masonic - House Manual
 
-##Kitchen By-Laws
+## Kitchen
+
+**Captains**
+
+Kitchen captains are volunteers who take responsibility for cleaning up messes left behind by others.
+Please be considerate. 
+Follow the kitchen guidelines.
+
+
+- Kat (lower)
+- Walrus (upper)
 
 ###Cleanliness
-- if you leave a mess, it will be photographed and sent out and you will be shamed
 - Keepon is watching you and wants you to feel bad if you leave a mess.
 - if the dishwasher is running, hand wash your dish
 - if the dishwasher is clean, empty it and put your dish in there or handwash your dish
 - dishwasher detergent is underneath the sink
+- if you leave a mess, it will be photographed and sent out and you will be shamed
 
 ###Food storage
 - label your food with masking tape and the sharpies by the sink (TODO: kh)
