@@ -13,7 +13,7 @@ Quick Links:
 
 
 If there is a problem, or want to discuss something,
-[open an Issue](https://github.com/masonic/house/issues/new).
+[create a new Issue](https://github.com/masonic/house/issues/new).
 
 
 Make sure you read the [House Manual](house-manual.md).
