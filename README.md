@@ -7,6 +7,7 @@ Quick Links:
 - [House Manual](house-manual.md)
 - [Discussions + Issues](https://github.com/masonic/house/issues)
 - [Contact Information](contact.md)
+- [Meeting Notes](meeting-notes/)
 
 
 If there is a problem, or want to discuss something, 
