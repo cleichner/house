@@ -37,7 +37,7 @@ FILL THIS IN
 - room: 4S
 - phone: 480.784.7575
 - email: chas@chas.io
-- spirit animal: Cuttlefish
+- spirit animal: [Cuttlefish](https://www.youtube.com/watch?v=GDwOi7HpHtQ)
 
 
 ## Community
