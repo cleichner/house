@@ -22,8 +22,7 @@ FILL THIS IN
 
 ### Juan Batiz-Benet
 
-<img src="http://juan.benet.ai/img/juan.batizbenet.headshotsq.jpg"
-  style="width: 200px; height: 200px;" />
+![](http://juan.benet.ai/img/juan.batizbenet.headshotsq.200.jpg)
 
 - room: 3A
 - phone: 619.957.7606
