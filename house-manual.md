@@ -30,7 +30,10 @@ Follow the kitchen guidelines.
 - (TODO: kh) Cabinet space is labelled. Please concentrate your things in the appropriate space
 
 **Trash**
-- if the trash is overflowing, take it out. Seriously. 
-- compost is compost in the metal bins, recycling is recycling in the blue bin, trash is trash in the black bin. Ask Kat or Hannah if you need a lesson on what constitutes trash, recycling, or compost. 
-- trash should be taken out to the bins in the garage or behind the black gate (TODO: Cy) the key to the gate will be at a specific location for when you are going out to the gate
-- Trash and compost bags are beneath the sink. 
+- Compost: silver, metal bins
+- Recyclables: blue bin
+- Landfill: black bin
+- If you miscategorize your trash, Kat and Hannah will get mad.
+- If the trash bins are full, do not put more trash in. Either (a) empty the bin and take the bag down to the garage or (b) find a different bin.
+- If the bins in the garage are full, put the trash in the gated area catacorner to the front gate. The key to this gated corner is in the lockbox at the front gate.
+- Trash and compost bags can be found beneath the sink.
