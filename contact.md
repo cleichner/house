@@ -35,7 +35,7 @@ FILL THIS IN
 ![](https://pbs.twimg.com/profile_images/459251415743885313/LkG7Zb-9_400x400.jpeg)
 
 - room: 2A 
-- phone: 919.457-3248
+- phone: 919.457.3248
 - email: kathryne.h@gmail.com  <-- prefered
 - +hangouts: kathryne.h@gmail.com <-- fastest
 - spirit animal: Hedgehog
