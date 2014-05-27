@@ -31,6 +31,15 @@ FILL THIS IN
 - spirit animal: Polar Bear
 
 
+### Chas Leichner
+![](https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/t1.0-1/c44.44.552.552/s160x160/582787_4134093707248_1002035999_n.jpg)
+
+- room: 4S
+- phone: 480.784.7575
+- email: chas@chas.io
+- spirit animal: Cuttlefish
+
+
 ## Community
 
 (Close friends/SOs/etc who are around a lot)
