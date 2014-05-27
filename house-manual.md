@@ -8,7 +8,6 @@ Kitchen captains are volunteers who take responsibility for cleaning up messes l
 Please be considerate. 
 Follow the kitchen guidelines.
 
-
 - Kat (lower)
 - Walrus (upper)
 
@@ -30,6 +29,7 @@ Follow the kitchen guidelines.
 - (TODO: kh) Fridge space is labelled. Please concentrate your things in the appropriate space
 - (TODO: kh) Cabinet space is labelled. Please concentrate your things in the appropriate space
 
+**
 ###Trash
 - if the trash is overflowing, take it out. Seriously. 
 - compost is compost in the metal bins, recycling is recycling in the blue bin, trash is trash in the black bin. Ask Kat or Hannah if you need a lesson on what constitutes trash, recycling, or compost. 
